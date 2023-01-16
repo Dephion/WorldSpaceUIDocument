@@ -1,0 +1,19 @@
+{
+    "name": "com.dephion.worldspaceuidocument.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d6dbdf97c3d5f2a4dbe9b95f11d55118",
+        "GUID:73510e45305a390499bfad11e9c00b8f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

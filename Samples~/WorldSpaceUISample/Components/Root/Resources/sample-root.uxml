@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Sample/Components/Root/Resources/styles/sample-root.uss?fileID=7433441132597879392&amp;guid=880040af9e4049d458c05e971ed93bec&amp;type=3#sample-root" />
+    <ui:VisualElement name="background-layer" class="stack background">
+        <ui:VisualElement name="column" class="column">
+            <ui:Label text="WorldSpace UI" display-tooltip-when-elided="true" name="title" class="title" />
+            <ui:VisualElement name="row" class="row">
+                <Dephion.UI.Core.Samples.Button text="Click Me!" name="button" />
+                <ui:Label text="You clicked 0 times!" display-tooltip-when-elided="true" name="clicked-label" enable-rich-text="false" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="front-layer" text="Dephion WorldSpaceUI Sample" class="stack">
+        <Dephion.UI.Core.Samples.Draggable name="dragger" text="Drag me!" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,43 @@
+.sample-root {
+    flex-grow: 1;
+}
+
+.stack {
+    flex-grow: 1;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.background {
+    align-items: center;
+    justify-content: center;
+    background-image: resource('Image/DephionWallpaper');
+}
+
+.row {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 50;
+}
+
+.unity-label {
+    font-size: 50;
+    -unity-text-align: middle-center;
+    color: white;
+    margin: 50;
+}
+
+.column {
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-size: 80;
+    top: 50;
+    -unity-font-style: bold-and-italic;
+}

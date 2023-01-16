@@ -1,0 +1,19 @@
+.button {
+    width: 200px;
+    height: 200px;
+    border-radius: 90;
+    background-color: dodgerblue;
+}
+
+.button__content-container {
+    flex-grow: 1;
+    flex-shrink: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.button__label {
+    white-space: nowrap;
+    align-self: center;
+    font-size: 30;
+}

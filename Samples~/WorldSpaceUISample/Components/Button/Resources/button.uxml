@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" c="Dephion.UI" l="Dephion.UI.Components.Layout" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Sample/Components/Button/Resources/styles/button.uss?fileID=7433441132597879392&amp;guid=3ae6a4c7a15f18d49a7f8b38916eddb3&amp;type=3#button" />
+    <ui:VisualElement name="content-container" class="button__content-container">
+        <ui:Label text="Label" display-tooltip-when-elided="true" name="button__label" class="button__label" />
+    </ui:VisualElement>
+</ui:UXML>

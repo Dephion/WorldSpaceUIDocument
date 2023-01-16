@@ -1,0 +1,16 @@
+{
+    "name": "com.dephion.worldspaceuidocument",
+    "rootNamespace": "",
+    "references": [
+        "GUID:284f340f5903a5847a6c9d3786e14175"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

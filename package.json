@@ -1,0 +1,16 @@
+{
+  "name": "com.dephion.worldspaceuidocument",
+  "version": "0.1.0",
+  "displayName": "Dephion WorldSpace UI Document",
+  "description": "A custom implementation to render Unity's UI Document in 3D space similar to a Canvas being rendered in 'WorldSpace' mode.",
+  "unity": "2021.3",
+  "unityRelease": "8f1",
+  "documentationUrl": "https://github.com/dephion",
+  "author": {
+    "name": "Dephion",
+    "email": "ruben.hamers@dephion.com",
+    "url": "https://dephion.com/"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
